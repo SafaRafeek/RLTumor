@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+RLTUMOR/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# RL logs
+logs/
+ppo_logs/
+
+# Models
+*.zip
+*.pth
+*.pt
+
+# Generated outputs
+results/
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
